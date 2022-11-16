@@ -10,8 +10,8 @@ If you wish to open these in a new tab, Press `CTRL+click`
 
 | **S.N.** | **Table of Content** |
 | ---- | ---------------- |
-| 1. | [Git: The Basics]() |
-| 2. | [Pull Request in GitHub]() |
+| 1. | [Git: The Basics](https://github.com/aygarp-modsiw/Git-and-GitHub/tree/master/Git%20The%20Basics) |
+| 2. | [Pull Request in GitHub](https://github.com/aygarp-modsiw/Git-and-GitHub/tree/master/Pull%20Request%20in%20GitHub) |
 
 <br/>
 
